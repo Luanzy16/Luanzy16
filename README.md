@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hi! I'm Luis Sánchez <a> <br> <img aling="left" width="100" height="100" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
 
-<h3 align="center"> Computer Engineering Student USA  | IBM Student 💙 | DEV.F </h3>
+<h3 align="center"> Computer Science and AI Engineering Student </h3>
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm interested in frontend technologies, databases,IA and cybersecurity 💻<p>
 <p> <li> You can send me an email here: luis.sanchez@usa.edu.co 🎮 <p>
@@ -14,7 +14,7 @@
   
 </div>
 
-## 🛠 Skills
+## 🛠 Skills (in process)
   <p>Programming Languages</p>
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
