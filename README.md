@@ -4,7 +4,7 @@
 <h3 align="center"> Computer Science and AI Engineering Student </h3>
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm interested in frontend technologies, databases,IA and cybersecurity 💻<p>
-<p> <li> You can send me an email here: luis.sanchez@usa.edu.co 🎮 <p>
+<p> <li> You can send me an email here: Luanzy1610@gmail.com🎮 <p>
 
 ## 📱 Connect with me
 <div> 
