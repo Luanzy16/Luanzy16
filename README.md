@@ -18,7 +18,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/toji-toji-fushiguro-coo-coo-crazy-he-is-crazy-gif-9488810019021905520"  />
+
 
 ###
 
