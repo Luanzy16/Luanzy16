@@ -18,7 +18,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="9488810019021905520" data-share-method="host" data-aspect-ratio="0.903614" data-width="100%"><a href="https://tenor.com/view/toji-toji-fushiguro-coo-coo-crazy-he-is-crazy-gif-9488810019021905520">Toji Toji Fushiguro GIF</a>from <a href="https://tenor.com/search/toji-gifs">Toji GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
