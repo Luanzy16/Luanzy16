@@ -2,13 +2,13 @@
 
 
 
+
+- <h2 align="left">Hi 👋! My name is Luis Sánchez from Bogotá, Colombia</h2>
+
 - 🏢 Computer Science Engineer, in Sergio Arboleda University
 - 🧰 I build with: `Python`, `Java` ...
 - ⚡ I enjoy videoGames, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: luanzy1610@gmail.com
--
-- <h2 align="left">Hi 👋! My name is Luis Sánchez from Bogotá, Colombia</h2>
-
 ###
 
 <div align="center">
