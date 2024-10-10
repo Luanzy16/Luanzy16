@@ -17,8 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/toji-toji-fushiguro-coo-coo-crazy-he-is-crazy-gif-9488810019021905520"  />
-
+<img align="right" height="150" src="https://github.com/user-attachments/assets/555ad0ac-44dc-416d-97a1-137d83c35d5e">
 
 ###
 - 🧰 I build with:
